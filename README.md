@@ -6,7 +6,7 @@
 
 :bulb: I have a broad interest in theoretical problems in AI/ML and signal processing. Now I am actively applying for PhD programs in related areas.  
 
-:email: huanyu.dong@outlook.com / huanyu.dong0425@gmail.com
+:email: huanyu_dong@outlook.com / huanyu.dong0425@gmail.com
 
 ## Skills
 Programming Languages: Python, MATLAB, and C/C++
