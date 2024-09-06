@@ -1,6 +1,6 @@
 # Hi there 👋
 ## About Me
-:mortar_board: I graduated from HUST in Fall 2023, with a bachelor's degree in EECS. I came from the Undergraduate Program for Advanced Project-based Information Science Education at HUST, which is also called the Seed Class.
+:mortar_board: I graduated from HUST in Fall 2023, with a bachelor's degree in Electronic Information and Engineering. I came from the Undergraduate Program for Advanced Project-based Information Science Education at HUST, which is also called the Seed Class🌱.
 
 :book: I had research experience in AI/ML, optimization, and statistical signal processing, for 5G/6G wireless communication.  
 
