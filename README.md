@@ -17,6 +17,9 @@ Professional Tools: PyTorch, TensorFlow, Git, SVN, and Linux
 
 Language: TOEFL (102), GRE (323+3.5)
 
+## You can find my [CV][1] here!
+
+[1]: https://drive.google.com/file/d/1jHXuATGELHaYRnXNOimfdseVKO56b7yI/view?usp=drive_link
 <!--
 **Aplacaca/Aplacaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
