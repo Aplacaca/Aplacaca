@@ -1,6 +1,6 @@
 # Hi there 👋
 ## About Me
-:mortar_board: I graduated from HUST in Fall 2023, with a bachelor's degree in Electronic Information and Engineering. I came from the Undergraduate Program for Advanced Project-based Information Science Education at HUST, which is also called the Seed Class🌱.
+:mortar_board: My name is Huanyu Dong(董浣羽). I graduated from Huazhong Univ. of Science and Technology ([HUST][2]) in Fall 2023, with a bachelor's degree in Electronic Information and Engineering. I came from the Undergraduate Program for Advanced Project-based Information Science Education at HUST, which is also called the Seed Class🌱.
 
 :book: I had research experience in AI/ML, optimization, and statistical signal processing for 5G/6G wireless communication.  
 
@@ -20,6 +20,7 @@ Language: TOEFL (102), GRE (323+3.5)
 ## You can find my [CV][1] here!
 
 [1]: https://drive.google.com/file/d/1jHXuATGELHaYRnXNOimfdseVKO56b7yI/view?usp=drive_link
+[2]: https://www.topuniversities.com/universities/huazhong-university-science-technology
 <!--
 **Aplacaca/Aplacaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
