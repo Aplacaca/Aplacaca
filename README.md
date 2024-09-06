@@ -8,6 +8,15 @@
 
 :email: huanyu.dong@outlook.com / huanyu.dong0425@gmail.com
 
+## Skills
+Programming Languages: Python, MATLAB, and C/C++
+
+Methodologies: Convex Optimization, Deep Learning, Statistical Signal Processing, Reinforcement Learning
+
+Professional Tools: PyTorch, TensorFlow, Git, SVN, and Linux
+
+Language: TOEFL (102), GRE (323+3.5)
+
 <!--
 **Aplacaca/Aplacaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
