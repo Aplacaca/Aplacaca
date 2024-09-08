@@ -4,7 +4,7 @@
 
 :book: I had research experience in AI/ML, optimization, and statistical signal processing for 5G/6G wireless communication.  
 
-:bulb: I have a broad interest in AI/ML and signal processing. Now I am actively applying for PhD programs in related areas.  
+:bulb: I have a broad interest in AI/ML, signal processing, and wireless communication. Now I am actively applying for PhD programs in related areas.  
 
 :email: huanyu_dong@outlook.com / huanyu.dong0425@gmail.com
 
