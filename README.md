@@ -19,7 +19,7 @@ Language: TOEFL (102), GRE (323+3.5)
 
 ## You can find my [CV][1] here!
 
-[1]: https://drive.google.com/file/d/1jHXuATGELHaYRnXNOimfdseVKO56b7yI/view?usp=sharing
+[1]: https://drive.google.com/file/d/1WRiwOs2AAd8mShLlwoXIocVq6HEQ0pAB/view?usp=sharing
 [2]: https://www.topuniversities.com/universities/huazhong-university-science-technology
 <!--
 **Aplacaca/Aplacaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
