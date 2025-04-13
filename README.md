@@ -1,26 +1,22 @@
 # Hi there 👋
 ## About Me
-:mortar_board: My name is Huanyu Dong(董浣羽). I graduated from Huazhong Univ. of Science and Technology ([HUST][2]) in Fall 2023, with a bachelor's degree in Electronic Information and Engineering. I came from the Undergraduate Program for Advanced Project-based Information Science Education at HUST, which is also called the Seed Class🌱.
+:mortar_board: My name is Huanyu Dong(董浣羽). I graduated from Huazhong Univ. of Science and Technology (HUST) in Fall 2023, with a bachelor's degree in Electronic Information and Engineering. I came from the Undergraduate Program for Advanced Project-based Information Science Education at HUST, which is also called the Seed Class🌱.
 
-:book: I had research experience in AI/ML, optimization, and statistical signal processing for 5G/6G wireless communication.  
+:book: I had research experience in optimization and signal processing.  
 
-:bulb: I have a broad interest in AI/ML, signal processing, and wireless communication. I am especially enthusiastic about theoretical problems! Now I am actively applying for PhD programs in related areas.  
+:bulb: I am especially enthusiastic about theoretical problems! Now I am actively applying for PhD programs in related areas.  
 
 :email: huanyu_dong@outlook.com / huanyu.dong0425@gmail.com
 
 ## Skills
 Programming Languages: Python, MATLAB, and C/C++
 
-Methodologies: Convex Optimization, Deep Learning, Statistical Signal Processing, Reinforcement Learning
+Methodologies: Convex Optimization, Signal Processing, Reinforcement Learning
 
-Professional Tools: PyTorch, TensorFlow, Git, SVN, and Linux
+Professional Tools: Git, SVN, and Linux
 
 Language: TOEFL (102), GRE (323+3.5)
 
-## Please find my [CV][1] here!
-
-[1]: https://drive.google.com/file/d/1KD36624pmdNkTVBZjES0uAafWkhdv-Tk/view?usp=sharing
-[2]: https://www.topuniversities.com/universities/huazhong-university-science-technology
 <!--
 **Aplacaca/Aplacaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
