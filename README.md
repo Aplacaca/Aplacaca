@@ -4,7 +4,7 @@
 
 :book: I had research experience in optimization and signal processing.  
 
-:bulb: I am especially enthusiastic about theoretical problems! Now I am actively applying for PhD programs in related areas.  
+:bulb: I am especially enthusiastic about theoretical problems! 
 
 :email: huanyu_dong@outlook.com / huanyu.dong0425@gmail.com
 
