@@ -1,21 +1,20 @@
 # Hi there 👋
 ## About Me
-:mortar_board: My name is Huanyu Dong(董浣羽). I graduated from Huazhong Univ. of Science and Technology (HUST) in Fall 2023, with a bachelor's degree in Electronic Information and Engineering. I came from the Undergraduate Program for Advanced Project-based Information Science Education at HUST, which is also called the Seed Class🌱.
+Ph.D. student at Penn State University
 
-:book: I had research experience in optimization and signal processing.  
+## Research Interests
+Optimization
+Signal Processing
 
-:bulb: I am especially enthusiastic about theoretical problems! 
 
-:email: huanyu_dong@outlook.com / huanyu.dong0425@gmail.com
+
+:email: huanyu_dong@psu.com / huanyu.dong0425@gmail.com
 
 ## Skills
 Programming Languages: Python, MATLAB, and C/C++
 
-Methodologies: Convex Optimization, Signal Processing, Reinforcement Learning
-
 Professional Tools: Git, SVN, and Linux
 
-Language: TOEFL (102), GRE (323+3.5)
 
 <!--
 **Aplacaca/Aplacaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
