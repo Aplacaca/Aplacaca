@@ -3,8 +3,7 @@
 Ph.D. student at Penn State University
 
 ## Research Interests
-Optimization \\
-Signal Processing
+Optimization & Machine Learning
 
 
 
