@@ -9,10 +9,7 @@ Optimization & Machine Learning
 
 :email: huanyu_dong@psu.com / huanyu.dong0425@gmail.com
 
-## Skills
-Programming Languages: Python, MATLAB, and C/C++
 
-Professional Tools: Git, SVN, and Linux
 
 
 <!--
